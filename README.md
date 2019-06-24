@@ -1,5 +1,5 @@
 
-#Data Dictionary
+# Data Dictionary
 |State|Type|Dataset|Description|
 |---|---|---|---|
 |SAT Participation|float|SAT|State participation in SAT in percentage| 
