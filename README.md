@@ -1,3 +1,6 @@
+# Purpose
+* Analysis of aggregate SAT and ACT scores and participation rates from each state in the United States.
+* Identify trends in the data and combine our data analysis with outside research to identify likely factors influencing participation rates and scores in various states.
 
 # Data Dictionary
 |State|Type|Dataset|Description|
